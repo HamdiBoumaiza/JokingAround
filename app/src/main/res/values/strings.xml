@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokingAround</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="internet_does_not_exist">Please make sure you have internet connection</string>
+    <string name="random_joke">Random Joke</string>
+</resources>
